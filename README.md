@@ -1,7 +1,7 @@
 ```diff
 ! READ FIRST! 
 ```
-# 1. Upload ml_2dd_peach_koehler.ipynb into Google Colab and open it (you may connect to a GPU node for faster training)
+# 1. Upload ml_2dd_stress.ipynb into Google Colab and open it (you may connect to a GPU node for faster training)
 
 # 2. In Google Colab
 
